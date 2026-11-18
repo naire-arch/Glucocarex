@@ -1,8 +1,9 @@
-# GlucoCare
+# GlucoCareX
 
 A modular diabetes management web app built with React, TypeScript, Vite and Tailwind CSS. It defaults to **mmol/L** with a global toggle to **mg/dL** (`1 mmol/L = 18.0182 mg/dL`), and ships with 14 days of realistic demo data, including East African staples (ugali, chapati, sukuma wiki, mandazi, githeri and more).
 
 > **Medical disclaimer:** GlucoCare is for informational and educational use only. It does not diagnose or treat any condition and does not replace professional medical advice. Always confirm insulin doses with your doctor or diabetes care team.
+>  LIVE DEMO;https://naire-arch.github.io/GlucoCareX
 
 ## Features
 
