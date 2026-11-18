@@ -1,8 +1,8 @@
 {
-  "name": "glucocare",
+  "name": "glucocareX",
   "private": true,
   "version": "1.0.0",
-  "description": "GlucoCare: a modular diabetes management web app (mmol/L default, mg/dL toggle) for patients, caregivers and clinicians.",
+  "description": "GlucoCareX: a modular diabetes management web app (mmol/L default, mg/dL toggle) for patients, caregivers and clinicians.",
   "type": "module",
   "scripts": {
     "dev": "vite",
